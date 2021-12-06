@@ -8,4 +8,3 @@ skill_7 Fiddler
 skill_8 Android_Studio
 skill_9 XCODE
 skill_10 QA_Theory
-
